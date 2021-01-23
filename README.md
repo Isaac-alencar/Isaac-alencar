@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+#### I'm Isaac. Software development student at Instituto Federal do Piauí. 👨‍💻
+<p>
+   Currently work and studying <img src="https://www.pinclipart.com/picdir/middle/537-5374089_react-js-logo-clipart.png" width="25" /> Reactjs and <img src="https://going2.com.br/images/icons/flutter-icon.png" width="25" /> Flutter
+</p>
+<p>
+  I'm always learning, whether it's From-end or not. I work too with some Back-end technologies as Ruby, NodeJs and Python/Flask.
+</p>
+
 <!--
 **Isaac-alencar/Isaac-alencar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
