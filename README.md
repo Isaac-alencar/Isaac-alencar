@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm Isaac. Software development student at Instituto Federal do Piauí. 👨‍💻
+#### I'm Isaac. Software developer graduated student in Instituto Federal do Piauí. 👨‍💻
 <p>
    Currently work and studying <img src="https://www.pinclipart.com/picdir/middle/537-5374089_react-js-logo-clipart.png" width="25" /> Reactjs and <img src="https://going2.com.br/images/icons/flutter-icon.png" width="25" /> Flutter
 </p>
