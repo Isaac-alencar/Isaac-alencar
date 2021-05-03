@@ -2,7 +2,7 @@
 
 #### I'm Isaac. Software developer graduated student in Instituto Federal do Piauí. 👨‍💻
 <p>
-  Actually works with web development, focused on Front-End. At the moment React.js and Next.js, are my study center and habilities. Check my Github     account to see my projects. r
+  Actually works with web development, focused on Front-End. At the moment React.js and Next.js, are my study center and habilities. Check my pinned projects
 </p>
 <p>
   I'm always learning, whether it's Front-end not. I work too with some Back-end technologies as Ruby, NodeJs and Python/Flask.
