@@ -2,7 +2,6 @@
 
 #### I'm Isaac. Software developer graduated student in Instituto Federal do Piauí. 👨‍💻
 <p>
-  Hi, My name is Isaac
   I'm a software developer, actually works with web development, focused on Front-End. At the moment React.js and Next.js, are my study center and habilities. Check my Github     account to see my projects. r
 </p>
 <p>
