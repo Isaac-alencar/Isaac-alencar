@@ -2,9 +2,7 @@
 
 #### Olá, me chamo Isaac. Desenvolvedor de software Front-End, com experiência em ReactJS
 <p>
-Desenvolvedor Front-end com experiência em ReactJS. Trabalho em projetos próprios e no desenvolvimento e 
-manutenção de projetos freelancers, pondo em prática desenvolvimento ágil de software, usando conceitos como Testes automatizados, 
-além de código limpo
+Desenvolvedor Front-end com experiência em ReactJS. Trabalho em projetos próprios e no desenvolvimento e na @codeminer42
 </p>
 
 <div style="display: flex; align-items: center; gap: 10px;">
